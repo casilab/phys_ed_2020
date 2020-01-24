@@ -3,7 +3,7 @@
 ---
 The program covered in Section 3.1 of the paper as Code: I-IX. 
 ---
-***####(Disclaimer: All relavant references are mentioned in the `Bibliography' section of the paper. To see more updates, keep visiting us...)***
+####(Disclaimer: All relavant references are mentioned in the `Bibliography' section of the paper. To see more updates, keep visiting this page...)
 ---
 ##### Creators: Tushar Kanti Dey (tkdey54@gmail.com), Surajit Sen (ssen55@yahoo.com)
 ---
