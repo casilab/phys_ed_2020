@@ -1,12 +1,13 @@
-#### Please read this README file to calculate various tensorial objects mentioned in the paper "A Compendium on General Relativity for Undergraduate Students" 
-published in Physics Education (IAPT) by Tushar Kanti Dey & Surajit Sen No.*, Vol.* (2020) 1 -- 15
 ---
-## This is a supplimentary Mathematica file in support of the paper "A Compendium on General Relativity for Undergraduate Students" 
-published in Physics Education (IAPT). %Introductory Course on Python in Physics
-
+## This is supplimentary Mathematica Notebook file to calulate various tensorial objects given in the paper "A Compendium on General Relativity for Undergraduate Students" by Tushar Kanti Dey & Surajit Sen, published in Physics Education (IAPT),  No.?, Vol.? (2020) 1-15. 
+---
 **(Version: 0.1)**
 ---
-***The following course gives a hands-on training on basic Python language for the Undergraduate (UG) physics students and also for the  Python enthusiasts. The whole course is designed for self-study using a set of 'Jupyter Worksheet'. For maximum benefit, it should be studied following the sequence given below.***
+*** The program covered here is Code: I-IX of Section 3.1 of the paper. The readers should systematically study in tendem with main text.***
 
-This is a supplimentary Mathematica file in support of the paper "A Compendium on General Relativity for Undergraduate Students" 
-published in Physics Education (IAPT).  
+##### (Disclaimer: All relavant mathematical formula etc are mentioned in the `Reference' Section of the paper.)
+---
+### To see more updates, keep visiting us...
+---
+#### Course creator: Tushar Kanti Dey (tkdey54@gmail.com), Surajit Sen, Contact: <ssen55@yahoo.com>
+---
